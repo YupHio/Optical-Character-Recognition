@@ -5,6 +5,8 @@ from PIL import Image
 import numpy as np
 import matplotlib.pyplot as plt
 
+# Paul Martin 2018
+
 # MNIST handwritten, 60k 28*28 grayscale images of the 10 digits,
 # along with a test set of 10k images
 # http://yann.lecun.com/exdb/mnist/
